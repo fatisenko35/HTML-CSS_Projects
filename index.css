@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    text-align: center;
+}
+
+fieldset{
+    margin: 15px 30px;
+}
+
+legend{
+    margin-left: 20px;
+}
+
+.Onay input{
+    margin: 10px;
+
+}
+
+.Kis-label{
+    display: inline-block;
+    margin: 10px;
+    width: 150px;
+
+}
+
+.sektör, .input-right{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px;
+}
+
+.sektör{
+    width: 200px;
+}
+
+h4{
+    padding-left: 50px;
+}
+
+#sözlesme{
+    margin: 10px;
+    resize: none;
+}
+
+.footer{
+    margin: 10px;
+}
+
+body{
+    background-color: white;
+    margin-top: 10px;
+}
